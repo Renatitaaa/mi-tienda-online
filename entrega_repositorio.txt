@@ -1,0 +1,49 @@
+ENTREGA - ACTIVIDAD JAVASCRIPT Y REPOSITORIO GIT
+==============================================
+
+INTEGRANTES DEL EQUIPO:
+----------------------
+1. RENATA MARDONES
+
+INFORMACIÓN DEL REPOSITORIO:
+---------------------------
+Nombre del repositorio: mi-tienda-online
+URL del repositorio GitHub: https://github.com/Renatitaaa/mi-tienda-online/
+
+DESCRIPCIÓN DEL PROYECTO:
+------------------------
+Sitio web de tienda online con las siguientes características:
+- Página de inicio con información de la empresa
+- Página de contacto con formulario
+- Widget de fecha y hora en tiempo real en todas las páginas
+- Diseño responsivo básico
+- JavaScript modular en carpeta separada
+
+ARCHIVOS PRINCIPALES:
+--------------------
+- index.html (página principal)
+- contacto.html (página de contacto)
+- estilos.css (estilos CSS)
+- js/fechahora.js (JavaScript para fecha y hora)
+
+FUNCIONALIDADES IMPLEMENTADAS:
+------------------------------
+✓ Carpeta "js" creada en el proyecto
+✓ Archivo JavaScript (.js) agregado en la carpeta js
+✓ Todas las páginas asociadas con el archivo JavaScript
+✓ Contenedor con ID "fecha-hora-contenedor" agregado en página de inicio
+✓ Rutina JavaScript que despliega fecha y hora actuales
+✓ Mismo contenedor agregado en todas las páginas
+✓ Verificación de funcionamiento en todas las páginas
+
+INSTRUCCIONES PARA SUBIR A GITHUB:
+----------------------------------
+1. Crear repositorio en GitHub con el nombre "mi-tienda-online"
+2. Clonar el repositorio localmente
+3. Copiar todos los archivos del proyecto al repositorio
+4. Hacer commit y push de los cambios
+5. Verificar que el repositorio sea público
+
+FECHA DE ENTREGA: [Fecha actual]
+CURSO: [Nombre del curso]
+PROFESOR: [Nombre del profesor]
